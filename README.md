@@ -1,2 +1,17 @@
 # Hello There
-This is a project aiming for helping parents' mental health.
+Hello There is a mobile application aiming for helping parents' mental health and implemented using React Native and Node.js. 
+
+## Features
+* user registration and login functionality
+* private messaging with the user who have the similar experience
+* browsing and viewing the broadcast video
+* booking the time with experts via Calendly
+
+## Implementation
+* Front-end: React Native
+* Back-end: Node.js, Socket.io
+* Database: MySQL
+* Integrated with Calendly API
+
+## Demo
+[![Watch the video](https://img.youtube.com/vi/USsuys4djs4/hqdefault.jpg)](https://www.youtube.com/watch?v=USsuys4djs4)
