@@ -14,5 +14,5 @@ Note: This repository is only for displaying the demo so it only includes the in
 * Database: MySQL
 * Integrated with Calendly API
 
-## Demo
+## Demo Video
 [![Watch the video](https://img.youtube.com/vi/USsuys4djs4/hqdefault.jpg)](https://www.youtube.com/watch?v=USsuys4djs4)
