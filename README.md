@@ -4,7 +4,7 @@ Note: This repository is only for displaying the demo so it only includes the in
 
 ## Features
 * user registration and login functionality
-* private messaging with the user who have a similar experience
+* private messaging with the user who has a similar experience
 * browsing and viewing the broadcast video
 * booking the time with experts via Calendly
 
@@ -13,6 +13,8 @@ Note: This repository is only for displaying the demo so it only includes the in
 * Back-end: Node.js, Socket.io
 * Database: MySQL
 * Integrated with Calendly API
+* User authentication with Google
+* Transferred to TypeScript
 
 ## Demo Video
 [![Watch the video](https://img.youtube.com/vi/USsuys4djs4/hqdefault.jpg)](https://www.youtube.com/watch?v=USsuys4djs4)
