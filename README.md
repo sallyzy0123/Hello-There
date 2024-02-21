@@ -3,7 +3,8 @@ Hello There is a mobile application aiming to help parents' mental health and im
 Please be advised that this repository is designed solely for displaying the demo and therefore includes only the initial code. Kindly note that the demo video, recorded in February 2024, may not encompass the latest updates.
 
 ## Features
-* user registration and login functionality
+* user authentication and GoogleSignIn functionality
+* questionnaire for your parenting experience
 * private messaging with the user who has a similar experience
 * browsing and viewing the broadcast video
 * booking the time with experts via Calendly
