@@ -1,6 +1,6 @@
 # Hello There
 Hello There is a mobile application aiming to help parents' mental health and implemented using React Native and Node.js. <br>
-Please be advised that this repository is designed solely for displaying the demo and therefore includes only the initial code. Kindly note that the demo video, recorded in September 2023, may not encompass the latest updates.
+Please be advised that this repository is designed solely for displaying the demo and therefore includes only the initial code. Kindly note that the demo video, recorded in February 2024, may not encompass the latest updates.
 
 ## Features
 * user registration and login functionality
@@ -17,4 +17,4 @@ Please be advised that this repository is designed solely for displaying the dem
 * Transferred to TypeScript
 
 ## Demo Video
-[![Watch the video](https://img.youtube.com/vi/USsuys4djs4/hqdefault.jpg)](https://www.youtube.com/watch?v=USsuys4djs4)
+[![Watch the video](https://img.youtube.com/vi/iFNWCh0tsw0/hqdefault.jpg)](https://www.youtube.com/watch?v=iFNWCh0tsw0)
